@@ -1,11 +1,9 @@
 package ru.netology;
 
-package ru.netology;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.manager.AviaSouls;
+
 
 import java.util.Comparator;
 
